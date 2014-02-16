@@ -1,0 +1,14 @@
+- Authenticate with Twitter
+- Get access to live feed
+- Use figaro
+- Receive tweet queries
+- Process all words of the tweet and 
+  - If found
+    - Assign score to utterance (additive)
+  - If not found
+    - Translate from Spanish and assign score to utterance
+  - Otherwise ignore in utterance score
+
+
+  
+
