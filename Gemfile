@@ -18,6 +18,7 @@ end
 gem 'unicorn'
 gem "figaro"
 gem "twitter"
+gem "sentimental"
 
 group :test, :development do
   gem "better_errors"
